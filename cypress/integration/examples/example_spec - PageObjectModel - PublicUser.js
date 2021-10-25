@@ -12,7 +12,7 @@ describe("Public User.", () => {
   });
 
   it("Test case - 1", () => {
-    //Test to check Display name
+    //Test to check Display name and other nfo
       (loginWith()).getDisplayName().should('contain.text', testingData.Home.DisplayName);
   });
 
