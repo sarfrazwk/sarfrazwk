@@ -1,0 +1,32 @@
+{
+  "Link": {
+    "Link": "https://pes.uocava.com/barsopt/app/#/login"
+  },
+  "Login": {
+    "Title": "Login",
+    "UserName": "qa1dominionvoting",
+    "Password": "dvscorp08!",
+    "PublicUserName": "qatestqateam@aol.com",
+    "PublicPassword": "Dvscorp08!",
+    "InvalidUserName": "qa1123dominionvoting",
+    "InvalidPassword": "Dvscorp09!",
+    "InvalidUPwdErrorMessage": "Unauthorized",
+    "ForgotPasswordLink": "Forgot password?"
+  },
+  "Home": {
+    "Title": "Home",
+    "TitlePublicUser": "Election events list",
+    "DisplayName": "QATESTAOL"
+  },
+  "Users": {
+    "List": "Users list"
+  },
+  "RecoverPassword": {
+    "Title": "Recover password",
+    "Message": "The password recovery email has been sent."
+  },
+  "ViewBallots": {
+    "Filter": "Filter ballots",
+    "BallotsTotal":"312939"
+  }
+}

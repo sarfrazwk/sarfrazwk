@@ -1,0 +1,15 @@
+{
+   
+    "reporter": "cypress-testrail-accumulative-reporter",
+    "reporterOptions": {
+      "domain":"10.101.10.198/testrail",
+      "username": "sarfraz.khan@dominionvoting.com",
+      "password": "Khasar25!",
+      "projectId": 56,
+      "suiteId": 691
+    },
+    "modifyObstructiveCode": false,
+    "projectId": "fq13f6",
+    "pageLoadTimeout": 2400000
+  }
+  
